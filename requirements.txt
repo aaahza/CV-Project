@@ -1,0 +1,27 @@
+# Core dependencies
+numpy>=1.18.5
+opencv-python>=4.6.0
+Pillow>=7.1.2
+tqdm>=4.64.0
+argparse
+scipy>=1.4.1
+
+# Deep learning
+torch>=1.8.0
+torchvision>=0.9.0
+ultralytics>=8.0.0
+
+# Computer vision and tracking
+supervision>=0.1.0
+transformers
+
+# Visualization and analysis
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Clustering and dimensionality reduction
+scikit-learn
+umap-learn
+
+# Optional: headless OpenCV for deployment
+# opencv-python-headless==4.10.0.84
